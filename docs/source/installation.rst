@@ -33,7 +33,7 @@ To install the latest source from github:
 
 .. code-block:: bash
 
-   >> pip install https://git@github.com/equinor/pylops-gpu.git@master
+   >> pip install git+https://git@github.com/equinor/pylops-gpu.git@master
 
 or just clone the repository
 
